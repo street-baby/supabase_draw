@@ -1,11 +1,11 @@
-# AI文生图平台
+# supabase_draw - AI文生图平台
 
 这是一个基于Vue 3和Flask的AI文生图平台，实现了邮箱验证码登录和图片生成功能。
 
 ## 项目结构
 
 ```
-douyin/
+supabase_draw/
 ├── fontend/                  # Vue前端
 │   ├── src/
 │   │   ├── api/              # API服务
@@ -90,4 +90,4 @@ flask db upgrade
 - 邮箱验证码登录/注册
 - JWT认证保护API
 - 文生图功能
-- 响应式设计，适配各种设备 
+- 响应式设计，适配各种设备
